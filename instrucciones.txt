@@ -1,0 +1,26 @@
+ABRIR/CERRAR VENTANAS, TECLAS:
+Bloques: B
+Imagen:  M
+Editor:  E
+
+ACCESO RÁPIDO:
+Bloques:    Ctrl + B
+Imagen:     Ctrl + M
+NPC-Player: Ctrl + N
+
+EDIT/PLAY MODE: Q
+
+MOVIMIENTO CÁMARA:
+Rueda arriba/abajo:         derecha/ izquierda
+Rueda arriba/abajo + Shift: subir  / bajar
+
+NOTA SOBRE EL SISTEMA DE GUARDADO/CARGADO
+
+GUARDADO:
+Si le das a SAVE PROYECT por primera vez, te aparecerá una ventana para colocarle nombre al proyecto.
+Esto NO SIGNIFICA que el proyecto se haya guardado, sino que solo le has dado un nombre. Ahora, si le
+das a SAVE PROYECT y no te aparece ninguna ventana, entonces el proyecto se guardó correctamente.
+
+CARGADO:
+Para cargar un nivel, el programa debe estar desde 0 (recién abierto o todo eliminado). Si no, lo que
+haya en pantalla se juntara con los elementos cargados.
